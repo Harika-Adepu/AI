@@ -8,7 +8,7 @@ There is one empty stone between them.
 The rabbits can only move forward one step or two steps. 
 The solution is implemented using both BFS and DFS approaches.
 
-Assignment 2 
+Assignment 2
 Bridge-crossing over the river within one hour to catch the train
 
 It is raining and Amogh, Ameya and their grandparents have only one umbrella which can be shared by two people.
